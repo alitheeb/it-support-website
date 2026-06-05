@@ -207,16 +207,19 @@ footer {
 
 @media (max-width: 768px) {
 
+  /* ===== NAVBAR ===== */
   .navbar {
     flex-direction: column;
     align-items: flex-start;
+    padding: 15px;
   }
 
   .nav-links {
     flex-direction: column;
-    gap: 10px;
     width: 100%;
+    padding: 0;
     margin-top: 10px;
+    gap: 8px;
   }
 
   .nav-links li {
@@ -225,40 +228,44 @@ footer {
 
   .nav-links a,
   .nav-links button {
-    display: block;
     width: 100%;
+    display: block;
+    padding: 10px;
     text-align: left;
   }
-}
 
-@media (max-width: 768px) {
+  /* ===== HERO ===== */
+  .hero {
+    padding: 60px 15px;
+  }
+
   .hero h1 {
-    font-size: 24px;
+    font-size: 22px;
   }
 
   .hero p {
     font-size: 14px;
   }
 
-  .hero {
-    padding: 60px 15px;
+  /* ===== BUTTONS ===== */
+  .hero-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
   }
-}
 
-@media (max-width: 768px) {
+  .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  /* ===== GRID ===== */
   .grid {
     grid-template-columns: 1fr;
   }
 
-  .card {
-    font-size: 14px;
-  }
-}
-
-@media (max-width: 768px) {
-  .btn {
-    width: 100%;
-    display: block;
-    margin: 8px 0;
+  /* ===== SECTIONS ===== */
+  .services, .features, .about, .contact {
+    padding: 40px 15px;
   }
 }
