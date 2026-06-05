@@ -109,8 +109,6 @@ body {
   transform: scale(1.05);
 }
 
-
-
 .fade-out {
   opacity: 0;
   transition: opacity 0.2s ease;
@@ -205,4 +203,62 @@ footer {
   padding: 20px;
   background: #0a192f;
   color: white;
+}
+
+@media (max-width: 768px) {
+
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .nav-links li {
+    width: 100%;
+  }
+
+  .nav-links a,
+  .nav-links button {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 24px;
+  }
+
+  .hero p {
+    font-size: 14px;
+  }
+
+  .hero {
+    padding: 60px 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .btn {
+    width: 100%;
+    display: block;
+    margin: 8px 0;
+  }
 }
