@@ -32,7 +32,7 @@ const translations = {
 
   basicTitle: "Basic Plan",
   basicDesc: "Perfect for small offices",
-  basic1: "Remote IT Support",
+  basic1: "Remote & On-site IT Support",
   basic2: "Basic troubleshooting",
   basic3: "Microsoft 365 support",
 
@@ -45,7 +45,7 @@ const translations = {
   premiumTitle: "Premium Plan",
   premiumDesc: "Full IT infrastructure support",
   premium1: "Server management",
-  premium2: "Priority support",
+  premium2: "Remote & On-site Priority support",
   premium3: "Advanced security",
 
   OnetimeTitle: "One-time Services",
@@ -87,7 +87,7 @@ const translations = {
 
   basicTitle: "الباقة الأساسية",
   basicDesc: "مناسبة للمكاتب الصغيرة",
-  basic1: "دعم تقني عن بعد",
+  basic1: "دعم تقني ميداني و عن بعد",
   basic2: "حل المشاكل الأساسية",
   basic3: "دعم Microsoft 365",
 
@@ -100,7 +100,7 @@ const translations = {
   premiumTitle: "الباقة الاحترافية",
   premiumDesc: "دعم كامل للبنية التحتية",
   premium1: "إدارة السيرفرات",
-  premium2: "دعم بأولوية",
+  premium2: "دعم عن بعد و ميداني بأولوية",
   premium3: "حماية وأمن متقدم",
 
   OnetimeTitle: "خدمات إضافية",
