@@ -26,7 +26,33 @@ const translations = {
   why3: "📊 Business-focused solutions",
   why4: "🌐 On-site & remote assistance",
 
-  aboutText: "Experienced IT Specialist providing professional support in IT infrastructure, networking, and system administration for businesses across the UAE."
+  aboutText: "Experienced IT Specialist providing professional support in IT infrastructure, networking, and system administration for businesses across the UAE.",
+
+  pricingTitle: "IT Packages & Pricing",
+
+  basicTitle: "Basic Plan",
+  basicDesc: "Perfect for small offices",
+  basic1: "Remote IT Support",
+  basic2: "Basic troubleshooting",
+  basic3: "Microsoft 365 support",
+
+  standardTitle: "Standard Plan",
+  standardDesc: "Ideal for growing businesses",
+  standard1: "Remote & On-site support",
+  standard2: "Network troubleshooting",
+  standard3: "Cybersecurity checks",
+
+  premiumTitle: "Premium Plan",
+  premiumDesc: "Full IT infrastructure support",
+  premium1: "Server management",
+  premium2: "Priority support",
+  premium3: "Advanced security",
+
+  OnetimeTitle: "One-time Services",
+  OnetimeDesc: "Office IT setup",
+  Onetime1: "Network configuration",
+  Onetime2: "CCTV setup support",
+  Onetime3:"Wi-Fi optimization"
   },
 
   ar: {
@@ -55,7 +81,33 @@ const translations = {
   why3: "📊 حلول موجهة للشركات",
   why4: "🌐 دعم عن بعد و ميداني",
 
-  aboutText: "مختص تقنية معلومات ذو خبرة في دعم البنية التحتية للشبكات وإدارة الأنظمة وتقديم حلول احترافية للشركات في جميع أنحاء الإمارات."
+  aboutText: "مختص تقنية معلومات ذو خبرة في دعم البنية التحتية للشبكات وإدارة الأنظمة وتقديم حلول احترافية للشركات في جميع أنحاء الإمارات.",
+
+  pricingTitle: "باقات وأسعار خدمات IT",
+
+  basicTitle: "الباقة الأساسية",
+  basicDesc: "مناسبة للمكاتب الصغيرة",
+  basic1: "دعم تقني عن بعد",
+  basic2: "حل المشاكل الأساسية",
+  basic3: "دعم Microsoft 365",
+
+  standardTitle: "الباقة المتوسطة",
+  standardDesc: "مثالية للشركات المتوسطة",
+  standard1: "دعم ميداني وعن بعد",
+  standard2: "حل مشاكل الشبكات",
+  standard3: "فحص أمني أساسي",
+
+  premiumTitle: "الباقة الاحترافية",
+  premiumDesc: "دعم كامل للبنية التحتية",
+  premium1: "إدارة السيرفرات",
+  premium2: "دعم بأولوية",
+  premium3: "حماية وأمن متقدم",
+
+  OnetimeTitle: "خدمات إضافية",
+  OnetimeDesc: "تجهيز البنية التقنية للمكاتب ",
+  Onetime1: " تهيئة وإدارة الشبكات ",
+  Onetime2:" دعم وتركيب أنظمة المراقبة",
+  Onetime3: " تحسين أداء وتغطية شبكة واي-فاي "
   }
 };
 
