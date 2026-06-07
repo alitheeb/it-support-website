@@ -28,7 +28,7 @@ const translations = {
 
   aboutText: "Experienced IT Specialist providing professional support in IT infrastructure, networking, and system administration for businesses across the UAE.",
 
-  pricingTitle: "IT Packages & Pricing",
+  pricingTitle: "IT Packages",
 
   basicTitle: "Basic Plan",
   basicDesc: "Perfect for small offices",
@@ -83,7 +83,7 @@ const translations = {
 
   aboutText: "مختص تقنية معلومات ذو خبرة في دعم البنية التحتية للشبكات وإدارة الأنظمة وتقديم حلول احترافية للشركات في جميع أنحاء الإمارات.",
 
-  pricingTitle: "باقات وأسعار خدمات IT",
+  pricingTitle: "باقات خدمات IT",
 
   basicTitle: "الباقة الأساسية",
   basicDesc: "مناسبة للمكاتب الصغيرة",
